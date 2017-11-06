@@ -12,3 +12,4 @@
 /bin/
 
 *.vec
+src/main/java/org/jfree/chart/demo/DualAxisDemo2.java
